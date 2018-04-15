@@ -1,0 +1,1 @@
+* * * * * /Users/smile/Desktop/develop/wechat_bot/status.sh >> /Users/smile/Desktop/develop/wechat_bot/status.log 2>&1 &
